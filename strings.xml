@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="djclass">Description: Work with active NYC DJs in learning the art of DJing inside a nightclub setting using professional equipment. Classes have a maximum of 4 students, which ensure that each student receives the proper attention to nurture their growth. </string>
+    <string name="djprice">Price: $1,485 (monthly: $495)</string>
+</resources>
